@@ -13,7 +13,7 @@ Find me at!
 #### Top Technologies
 
 
-[![Python Badge](https://img.shields.io/badge/-Python-000000?style=for-the-badge&labelColor=black&logo=python&logoColor=FFA500)](#) [![VS Code Badge](https://img.shields.io/badge/-VScode-000000?style=for-the-badge&labelColor=black&logo=Visual%20Studio%20Code&logoColor=000FFF)](#) [![Sublime Text Badge](https://img.shields.io/badge/-Sublime-000000?style=for-the-badge&labelColor=black&logo=Sublime%20Text&logoColor=ffa500)](#) [![Github Text Badge](https://img.shields.io/badge/-Git-000000?style=for-the-badge&labelColor=black&logo=Git&logoColor=red)](#)
+[![VS Code Badge](https://img.shields.io/badge/-VScode-000000?style=for-the-badge&labelColor=black&logo=Visual%20Studio%20Code&logoColor=000FFF)](#) [![Sublime Text Badge](https://img.shields.io/badge/-Sublime-000000?style=for-the-badge&labelColor=black&logo=Sublime%20Text&logoColor=ffa500)](#) [![Github Text Badge](https://img.shields.io/badge/-Git-000000?style=for-the-badge&labelColor=black&logo=Git&logoColor=red)](#)
 
 ### Top Languages
 
