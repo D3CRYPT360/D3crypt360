@@ -1,36 +1,26 @@
-## Hi I'm D3crypt360 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<h1 align="center">Hi 👋, I'm D3crypt360</h1>
+<h3 align="center">Call me D3 for short. High school student who is learning Python and JavaScript</h3>
 
-Call me D3 for short. High school student who is learning <img align="middle" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> and <img align="middle" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=d3crypt360&label=Profile%20views&color=0e75b6&style=flat" alt="d3crypt360" /> </p>
 
-Find me at!
+<p align="left"> <a href="https://twitter.com/d3crypt360" target="blank"><img src="https://img.shields.io/twitter/follow/d3crypt360?logo=twitter&style=for-the-badge" alt="d3crypt360" /></a> </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-@D3crypt360-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/D3crypt360)](https://twitter.com/d3crypt360) [![Mail Badge](https://img.shields.io/badge/-@D3crypt360-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/d3crypt360) [![Mail Badge](https://img.shields.io/badge/-DΞCRYPT360-3D5FA0?style=flat&labelColor=3D5FA0&logo=discord&logoColor=white)](https://discord.gg/)
+- 🌱 I’m currently learning **Python and JS**
 
+- 📫 How to reach me **DΞCRYPT#9779 on discord.**
 
-- 📫 How to reach me: DΞCRYPT#9779 on discord.
-- ⚡ Fun fact: I like to work on valorant related stuff.
+- ⚡ Fun fact **I like to work on VALORANT related stuff.**
 
-#### Top Technologies
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/d3crypt360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="d3crypt360" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14305700" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14305700" height="30" width="40" /></a>
+<a href="https://instagram.com/d3crypt360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="d3crypt360" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[![VS Code Badge](https://img.shields.io/badge/-VScode-000000?style=for-the-badge&labelColor=black&logo=Visual%20Studio%20Code&logoColor=000FFF)](#) [![Sublime Text Badge](https://img.shields.io/badge/-Sublime-000000?style=for-the-badge&labelColor=black&logo=Sublime%20Text&logoColor=ffa500)](#) [![Github Text Badge](https://img.shields.io/badge/-Git-000000?style=for-the-badge&labelColor=black&logo=Git&logoColor=red)](#)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d3crypt360&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide" alt="d3crypt360" /></p>
 
-### Top Languages
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<br />
-<br />
-
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=D3CRYPT360.D3crypt360)
-
-
-
-#### Github Stats
-
-![D3crypt360's github stats](https://github-readme-stats.vercel.app/api?username=D3crypt360&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-</details>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3crypt360&show_icons=true&locale=en&theme=tokyonight&hide" alt="d3crypt360" /></p>
