@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/d3crypt360" target="blank"><img src="https://img.shields.io/twitter/follow/d3crypt360?logo=twitter&style=for-the-badge" alt="d3crypt360" /></a> </p>
 
-- 🌱 I’m currently learning **Python and C#**
+- 🌱 I’m currently learning **Python and JS**
 
 - 📫 How to reach me **DΞCRYPT#9779 on discord.**
 
