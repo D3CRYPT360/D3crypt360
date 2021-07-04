@@ -11,10 +11,11 @@
 
 - ⚡ Fun fact **I like to work on VALORANT related stuff.**
 
+## Currently on break will be back on Aug 1 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/d3crypt360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="d3crypt360" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14305700" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14305700" height="30" width="40" /></a>
 <a href="https://instagram.com/d3crypt360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="d3crypt360" height="30" width="40" /></a>
 </p>
 
