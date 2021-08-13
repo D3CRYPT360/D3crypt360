@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **DΞCRYPT#9779 on discord.**
 
-- 📖 Studying Certificate IV in IT at [Cyryx College](www.cyryxcollege.edu.mv)
+- 📖 Studying Certificate IV in IT at [Cyryx College](https://www.cyryxcollege.edu.mv)
 
 - ⚡ Fun fact **I like to work on VALORANT related stuff.**
 
