@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm D3crypt360</h1>
-<h3 align="center">Call me D3 for short. High school student who is learning Python and JS</h3>
+<h3 align="center">Call me D3 for short. College student who is learning Python and JS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3crypt360&label=Profile%20views&color=0e75b6&style=flat" alt="d3crypt360" /> </p>
 
@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **Python and JS**
 
 - 📫 How to reach me **DΞCRYPT#9779 on discord.**
+
+- 📖 Studying Certificate IV in IT at [Cyryx College](www.cyryxcollege.edu.mv)
 
 - ⚡ Fun fact **I like to work on VALORANT related stuff.**
 
