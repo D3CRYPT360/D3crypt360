@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and JS**
 
-- 📫 How to reach me **DΞCRYPT#9779 on discord.**
+- 📫 How to reach me **D3CRYPT#9779 on discord.**
 
 - 📖 Studying Certificate IV in IT at [Cyryx College](https://www.cyryxcollege.edu.mv)
 
