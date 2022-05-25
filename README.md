@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm D3crypt360</h1>
-<h3 align="center">Call me D3 for short. College student who is learning Python and JS</h3>
+<h3 align="center">Call me D3 for short</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3crypt360&label=Profile%20views&color=0e75b6&style=flat" alt="d3crypt360" /> </p>
 
 <p align="left"> <a href="https://twitter.com/d3crypt360" target="blank"><img src="https://img.shields.io/twitter/follow/d3crypt360?logo=twitter&style=for-the-badge" alt="d3crypt360" /></a> </p>
 
-- 🌱 I’m currently learning **Python and JS**
-
 - 📫 How to reach me **D3CRYPT#9779 on discord.**
 
 - 📖 Studying Certificate IV in IT at [Cyryx College](https://www.cyryxcollege.edu.mv)
 
-- ⚡ Fun fact **I like to work on VALORANT related stuff.**
+- ⚡ Fun fact **I like to work on VALORANT related stuff, eventhough i do not play the game anymore**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
