@@ -9,7 +9,7 @@
 
 - 📖 Studying Certificate IV in IT at [Cyryx College](https://www.cyryxcollege.edu.mv)
 
-- ⚡ Fun fact **I like to work on VALORANT related stuff, even though i do not play the game anymore**
+- ⚡ Fun fact **Travis Scott is my favourite music artist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
