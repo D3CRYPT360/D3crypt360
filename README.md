@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **D3CRYPT#9779 on discord.**
 
-- 📖 Studying Certificate IV in IT at [Cyryx College](https://www.cyryxcollege.edu.mv)
+- 📖 BsC (Hons) Computer Science student at [Villa College](https://www.villacollege.edu.mv)
 
 - ⚡ Fun fact **Travis Scott is my favourite music artist**
 
